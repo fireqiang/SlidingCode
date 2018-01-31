@@ -12,6 +12,7 @@ import com.ren.slidingcode.view.Captcha;
 public class MainActivity extends AppCompatActivity {
     private Captcha captcha;
     private Button btnMode;
+    //呵呵呵
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
