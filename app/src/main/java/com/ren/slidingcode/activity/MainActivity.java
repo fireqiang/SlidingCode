@@ -9,6 +9,9 @@ import android.widget.Toast;
 import com.ren.slidingcode.R;
 import com.ren.slidingcode.view.Captcha;
 
+/**
+ * master2
+ */
 public class MainActivity extends AppCompatActivity {
     private Captcha captcha;
     private Button btnMode;
